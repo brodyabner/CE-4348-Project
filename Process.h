@@ -4,10 +4,10 @@
 struct Process {
 
     char name;
-    int[] arrivalTime;
-    int[] serviceTime;
-    int[] diskTime;
-    int[] diskActivity;
+    int arrivalTime;
+    int serviceTime;
+    int diskTime;
+    int diskActivity;
 };
 
 #endif
