@@ -5,6 +5,8 @@ schedules processes based on arrival time, with processes that arrive first bein
 
 #include <stdio.h>
 
-int main() {
+void FCFS(struct Proccess[] process) {
     
+    int[] burstTime = {};
+    for(int i= 0; i < sizeof(serviceTime))
 }
